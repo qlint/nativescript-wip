@@ -1,0 +1,25 @@
+{
+	"nativescript-imagepicker": {
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-imagepicker\\platforms\\android\\include.gradle": "f7f39d775689a4beda3abf9b474cfcb897325954",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-imagepicker\\platforms\\android\\README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f"
+	},
+	"nativescript-plugin-firebase": {
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\firebase-release.aar": "ed490f3a2f317054012aa47506da3b7b3616413f",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\include.gradle": "d5b919ea8bb6bfd7c23d37f5c5b403c9ddeceba5",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\README.md": "b4cfe408efe30ab685c6aba22230098f2fd697d8"
+	},
+	"nativescript-ui-listview": {
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-ui-listview\\platforms\\android\\include.gradle": "6de828da977bf83e1e659e8c9b1c5a299a8e1d41",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-ui-listview\\platforms\\android\\typings\\android-support-v4.d.ts": "6b814d9f70cf25fb43d967d9ae9b457fbea526fc",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-ui-listview\\platforms\\android\\typings\\android-support-v7-recyclerview.d.ts": "9db815ece46c9cced20e90e945efe07e2bf990fe",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-ui-listview\\platforms\\android\\typings\\listview.d.ts": "6ab6e6ea0ac19aef1b55a8779d44f48a067c9954",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-ui-listview\\platforms\\android\\TNSListView-release.aar": "93e2164c9166cced6f4c8fd4167c523da321dd50"
+	},
+	"nativescript-ui-core": {
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "7e9c7f089e6c8aeea48b19e54e4bb1ff62b70eed",
+		"C:\\laragon\\www\\edunativescript\\node_modules\\nativescript-ui-core\\platforms\\android\\typings\\core.d.ts": "57a0606617eef3c732c1a7f32480b1e166ad27ce"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\laragon\\www\\edunativescript\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "7a062e96fe7b542638c6a6570de1531521a7307b"
+	}
+}
