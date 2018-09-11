@@ -1,0 +1,31 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.edunativescript",
+    "tns-android": {
+      "version": "4.2.0"
+    },
+    "tns-ios": {
+      "version": "4.2.0"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "scripts": {
+    "lint": "eslint \"app/**/*.js\""
+  },
+  "dependencies": {
+    "nativescript-imagepicker": "~6.0.0",
+    "nativescript-plugin-firebase": "~6.0.0",
+    "nativescript-theme-core": "~1.0.4",
+    "nativescript-ui-listview": "~3.5.0",
+    "tns-core-modules": "~4.2.0",
+    "rxjs": "~6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "~4.9.0",
+    "nativescript-dev-sass": "~1.6.0",
+    "nativescript-dev-webpack": "~0.15.0"
+  },
+  "readme": "NativeScript Application"
+}
